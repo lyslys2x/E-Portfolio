@@ -90,10 +90,10 @@
 
 .tab {
     background: #f6daef;
-    width: 100px;
-    height: 32px;
+    width: auto;
+    height: auto;
     text-align: center;
-    padding: 12px;
+    padding: 12px 42px;
     border-radius: 20px 20px 0 0;
     font-size: 24px;
     color: #d158a6;
