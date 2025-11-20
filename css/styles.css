@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Unbounded';
+    src: url('../fonts/Unbounded/Unbounded-VariableFont_wght.ttf') format('truetype');
+    font-weight: 100 900;
+    font-style: normal;
+}
+
+body {
+    margin: 0;
+    background: url("../images/background.jpg") center/cover no-repeat fixed;
+    position: relative;
+}
+
+footer{
+    margin-top: 20px;
+    background-color: pink;
+    text-align: center;
+}
+footer p{
+    padding: 16px;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: "Unbounded";
+}
